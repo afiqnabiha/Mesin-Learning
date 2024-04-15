@@ -1,0 +1,31 @@
+{
+    "Senin": {
+      "produk_terjual": 45,
+      "jumlah_penjualan": 452000
+    },
+    "Selasa": {
+      "produk_terjual": 38,
+      "jumlah_penjualan": 382700
+    },
+    "Rabu": {
+      "produk_terjual": 79,
+      "jumlah_penjualan": 147900
+    },
+    "Kamis": {
+      "produk_terjual": 0,
+      "jumlah_penjualan": 0
+    },
+    "Jumat": {
+      "produk_terjual": 0,
+      "jumlah_penjualan": 0
+    },
+    "Sabtu": {
+      "produk_terjual": 0,
+      "jumlah_penjualan": 0
+    },
+    "Minggu": {
+      "produk_terjual": 0,
+      "jumlah_penjualan": 0
+    }
+  }
+  
